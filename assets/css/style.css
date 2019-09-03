@@ -389,17 +389,11 @@ input[type=submit] {
   #wrapper {
       width: 720px;
   }
-  ul {
-    width:100%
-  }
 }
 
 @media screen and (max-width:768px) {
   #wrapper {
       width: 600px;
-  }
-  ul {
-    width:100%
   }
 }
 
@@ -407,10 +401,7 @@ input[type=submit] {
   #wrapper {
       width: 480px;
   }
-  ul {
-    width:100%;
-  }
-  nav {
-    text-align: center;
+  #logo {
+    width: 100%;
   }
 }
